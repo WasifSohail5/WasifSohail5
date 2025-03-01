@@ -2,7 +2,7 @@
 
 ### An AI & ML Developer | Passionate About Game Development
 
-![Follow Me](https://img.shields.io/github/followers/wasifsohail?style=social)
+![Follow Me](https://img.shields.io/github/followers/WasifSohail5?style=social)
 
 ### 📫 How to reach me:
 - **Email:** [wasifsohail66@gmail.com](mailto:wasifsohail66@gmail.com)
@@ -41,6 +41,6 @@
 ---
 
 ### 🔥 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasifsohail&show_icons=true&theme=dark&cache_seconds=1800)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=dark)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wasifsohail&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=WasifSohail5&theme=dark)
