@@ -74,7 +74,7 @@ AI & ML Developer with a passion for creating intelligent systems and immersive 
 <div align="center">
   <!-- Fix for GitHub Streak -->
   <a href="https://github.com/WasifSohail5">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasifSohail5&theme=radical&hide_border=true&background=0D1117" alt="WasifSohail5's Github streak"/>
+    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WasifSohail5&theme=radical&hide_border=true&background=0D1117)](https://github.com/WasifSohail5)"/>
   </a>
 </div>
 
