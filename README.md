@@ -62,32 +62,27 @@ AI & ML Developer with a passion for creating intelligent systems and immersive 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Fix for GitHub Stats -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/WasifSohail5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
   </a>
+  <!-- Most Used Languages -->
   <a href="https://github.com/WasifSohail5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
-  <!-- Fix for GitHub Streak -->
+  <!-- GitHub Streak - Fixed with direct image URL -->
   <a href="https://github.com/WasifSohail5">
-    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WasifSohail5&theme=radical&hide_border=true&background=0D1117)](https://github.com/WasifSohail5)"/>
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=WasifSohail5&theme=radical&hide_border=true&background=0D1117" alt="WasifSohail5's Github streak"/>
   </a>
 </div>
 
-<!-- Custom language stats based on your screenshot -->
+<!-- Custom language stats based on your data -->
 <div align="center">
   <h3>Most Used Languages</h3>
-  <table>
-    <tr>
-      <td>
-        <div style="background: linear-gradient(to right, #FF6B35 63.86%, #34AAE5 34.94%, #61C265 1.2%); height: 20px; width: 100%; border-radius: 5px;"></div>
-      </td>
-    </tr>
-  </table>
+  <div style="background: linear-gradient(to right, #FF6B35 63.86%, #34AAE5 34.94%, #61C265 1.2%); height: 20px; width: 100%; border-radius: 5px; margin: 10px 0;"></div>
   <div style="display: flex; justify-content: space-around; width: 100%;">
     <span>🟠 Jupyter Notebook 63.86%</span>
     <span>🔵 Python 34.94%</span>
@@ -101,7 +96,7 @@ AI & ML Developer with a passion for creating intelligent systems and immersive 
 
 <div align="center">
   <a href="https://github.com/WasifSohail5?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=WasifSohail5&theme=radical&no-frame=true&row=1&column=7" alt="WasifSohail5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=WasifSohail5&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="WasifSohail5" />
   </a>
 </div>
 
