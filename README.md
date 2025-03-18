@@ -1,4 +1,4 @@
-# 🚀 Wasif Sohail | AI & Game Developer 🎮
+# 🚀 Wasif Sohail | AI/ML & Game Developer 🎮
 
 [![Follow Me](https://img.shields.io/github/followers/WasifSohail5?style=social)](https://github.com/WasifSohail5)
 [![Profile Views](https://komarev.com/ghpvc/?username=WasifSohail5&label=Profile%20Views&color=blue&style=flat)](https://github.com/WasifSohail5)
