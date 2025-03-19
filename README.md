@@ -141,17 +141,23 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/WasifSohail5/ai-vision-system">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WasifSohail5&repo=ai-vision-system&theme=radical&hide_border=true&bg_color=0D1117" alt="ai-vision-system" />
+  <a href="https://github.com/WasifSohail5/Virtual_Mouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Virtual_Mouse&theme=radical&hide_border=true&bg_color=0D1117" alt="Virtual_Mouse" />
   </a>
-  <a href="https://github.com/WasifSohail5/intelligent-npcs">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WasifSohail5&repo=intelligent-npcs&theme=radical&hide_border=true&bg_color=0D1117" alt="intelligent-npcs" />
+  <a href="https://github.com/WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=AMUSIC-AI_Powered_MusicRecommendationSystem&theme=radical&hide_border=true&bg_color=0D1117" alt="AMUSIC-AI" />
   </a>
-  <a href="https://github.com/WasifSohail5/data-visualization-dashboard">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WasifSohail5&repo=data-visualization-dashboard&theme=radical&hide_border=true&bg_color=0D1117" alt="data-visualization-dashboard" />
+  <a href="https://github.com/WasifSohail5/FitFusion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FitFusion&theme=radical&hide_border=true&bg_color=0D1117" alt="FitFusion" />
   </a>
-  <a href="https://github.com/WasifSohail5/ml-algorithms">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WasifSohail5&repo=ml-algorithms&theme=radical&hide_border=true&bg_color=0D1117" alt="ml-algorithms" />
+  <a href="https://github.com/WasifSohail5/Jarvis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Jarvis&theme=radical&hide_border=true&bg_color=0D1117" alt="Jarvis" />
+  </a>
+  <a href="https://github.com/WasifSohail5/FlappyBird">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FlappyBird&theme=radical&hide_border=true&bg_color=0D1117" alt="FlappyBird" />
+  </a>
+  <a href="https://github.com/WasifSohail5/SpamShield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=SpamShield&theme=radical&hide_border=true&bg_color=0D1117" alt="SpamShield" />
   </a>
 </div>
 
@@ -161,7 +167,7 @@
   <details open>
     <summary><h3>💻 Weekly Development Breakdown</h3></summary>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasifsohail&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WasifSohail5&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
     </p>
     
 ```text
