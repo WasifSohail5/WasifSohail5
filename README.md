@@ -2,54 +2,72 @@
   <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&duration=2500&pause=500&color=FF5E87&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+I'm+Wasif+Sohail;AI+%26+Machine+Learning+Developer;Game+Development+Enthusiast;Computer+Vision+Specialist" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/WasifSohail5">
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=D70EF3&labelColor=302D41&label=Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/WasifSohail5" alt="total stars" />
   </a>
   <a href="https://github.com/WasifSohail5?tab=followers">
-    <img src="https://custom-icon-badges.herokuapp.com/github/followers/WasifSohail5?color=23960c&labelColor=1e7e08&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/WasifSohail5?color=23960c&labelColor=1e7e08&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=WasifSohail5&style=for-the-badge&color=673AB7&label=PROFILE+VIEWS" alt="views" />
-</p>
+</div>
 
+<!-- About Me Section with Modern Design -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <span style="font-size:24px; font-weight:bold;">About Me</span>
+  <h2>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+    <span style="font-size:28px; font-weight:bold;">About Me</span>
+  </h2>
 </div>
 
 <table align="center">
   <tr>
-    <td>
+    <td width="50%">
       <p align="center">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
       </p>
       <ul>
-        <li>🔭 I'm currently working on AI-powered game development systems</li>
+        <li>🧠 I'm currently working on AI-powered game development systems</li>
         <li>🌱 I'm passionate about machine learning & computer vision</li>
         <li>👯 I'm looking to collaborate on innovative AI projects</li>
         <li>💬 Ask me about Python, AI algorithms, and game dev</li>
         <li>⚡ Fun fact: I love combining AI with creative applications!</li>
       </ul>
     </td>
-    <td>
+    <td width="50%">
       <h3 align="center">Connect with me</h3>
       <p align="center">
-        <a href="mailto:wasifsohail66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-        <a href="https://linkedin.com/in/wasifsohail"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://twitter.com/wasifsohail"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+        <a href="mailto:wasifsohail66@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+        <a href="https://linkedin.com/in/wasifsohail">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://twitter.com/wasifsohail">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
       </p>
       <p align="center">
-        <a href="https://dev.to/wasifsohail"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
-        <a href="https://kaggle.com/wasifsohail"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-        <a href="https://medium.com/@wasifsohail"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+        <a href="https://dev.to/wasifsohail">
+          <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+        </a>
+        <a href="https://kaggle.com/wasifsohail">
+          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+        </a>
+        <a href="https://medium.com/@wasifsohail">
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+        </a>
       </p>
     </td>
   </tr>
 </table>
 
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!-- Skills Section with Improved Organization -->
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 
 <div align="center">
@@ -100,6 +118,7 @@
   </p>
 </div>
 
+<!-- GitHub Stats Section with Improved Layout -->
 <h2 align="center">📊 GitHub Statistics 📊</h2>
 
 <div align="center">
@@ -109,7 +128,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasifSohail5&theme=radical" alt="General Stats" />
     </p>
     <p>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
       <img src="https://github-readme-streak-stats.herokuapp.com?user=WasifSohail5&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF00FA&ring=FF00FA&fire=FF00FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FA&background=0D1117&dates=FFFFFF" width="49%" alt="GitHub Streak" />
     </p>
   </details>
@@ -117,13 +136,17 @@
   <details>
     <summary><h3>🌟 Most Used Languages</h3></summary>
     <p>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
       <img src="https://api.githubtrends.io/user/svg/WasifSohail5/langs?time_range=one_year&theme=synthwaves" width="49%" alt="Language Trends" />
     </p>
     
     <h4>Visual Language Breakdown</h4>
-    <div style="background: linear-gradient(to right, #FF6B35 63.86%, #34AAE5 34.94%, #61C265 1.2%); height: 20px; width: 80%; border-radius: 5px; margin: 10px auto;"></div>
-    <div style="display: flex; justify-content: space-around; width: 80%; margin: 0 auto;">
+    <div style="display: flex; width: 80%; margin: 0 auto;">
+      <div style="background-color: #FF6B35; width: 63.86%; height: 20px; border-radius: 5px 0 0 5px;"></div>
+      <div style="background-color: #34AAE5; width: 34.94%; height: 20px;"></div>
+      <div style="background-color: #61C265; width: 1.2%; height: 20px; border-radius: 0 5px 5px 0;"></div>
+    </div>
+    <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
       <span>🟠 Jupyter Notebook 63.86%</span>
       <span>🔵 Python 34.94%</span>
       <span>🟢 C# 1.20%</span>
@@ -138,73 +161,85 @@
   </details>
 </div>
 
+<!-- Featured Projects with Improved Layout -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/WasifSohail5/Virtual_Mouse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Virtual_Mouse&theme=radical&hide_border=true&bg_color=0D1117" alt="Virtual_Mouse" />
-  </a>
-  <a href="https://github.com/WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=AMUSIC-AI_Powered_MusicRecommendationSystem&theme=radical&hide_border=true&bg_color=0D1117" alt="AMUSIC-AI" />
-  </a>
-  <a href="https://github.com/WasifSohail5/FitFusion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FitFusion&theme=radical&hide_border=true&bg_color=0D1117" alt="FitFusion" />
-  </a>
-  <a href="https://github.com/WasifSohail5/Jarvis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Jarvis&theme=radical&hide_border=true&bg_color=0D1117" alt="Jarvis" />
-  </a>
-  <a href="https://github.com/WasifSohail5/FlappyBird">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FlappyBird&theme=radical&hide_border=true&bg_color=0D1117" alt="FlappyBird" />
-  </a>
-  <a href="https://github.com/WasifSohail5/SpamShield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=SpamShield&theme=radical&hide_border=true&bg_color=0D1117" alt="SpamShield" />
-  </a>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; max-width: 900px; margin: 0 auto;">
+    <a href="https://github.com/WasifSohail5/Virtual_Mouse">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Virtual_Mouse&theme=radical&hide_border=true&bg_color=0D1117" alt="Virtual_Mouse" />
+    </a>
+    <a href="https://github.com/WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=AMUSIC-AI_Powered_MusicRecommendationSystem&theme=radical&hide_border=true&bg_color=0D1117" alt="AMUSIC-AI" />
+    </a>
+    <a href="https://github.com/WasifSohail5/FitFusion">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FitFusion&theme=radical&hide_border=true&bg_color=0D1117" alt="FitFusion" />
+    </a>
+    <a href="https://github.com/WasifSohail5/Jarvis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Jarvis&theme=radical&hide_border=true&bg_color=0D1117" alt="Jarvis" />
+    </a>
+    <a href="https://github.com/WasifSohail5/FlappyBird">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FlappyBird&theme=radical&hide_border=true&bg_color=0D1117" alt="FlappyBird" />
+    </a>
+    <a href="https://github.com/WasifSohail5/SpamShield">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=SpamShield&theme=radical&hide_border=true&bg_color=0D1117" alt="SpamShield" />
+    </a>
+  </div>
 </div>
 
+<!-- Weekly Activity Section with Fixed Formatting -->
 <h2 align="center">⏱️ Coding Activity</h2>
 
 <div align="center">
   <details open>
     <summary><h3>💻 Weekly Development Breakdown</h3></summary>
-    
-    <!-- Option 1: Static text representation -->
-    <p>
+    <div>
+      <pre>
 ```text
 Jupyter Notebook   15 hrs 42 min    ███████████▓░░░░░░░░░   47.85 %
 Python             12 hrs 24 min    █████████▒░░░░░░░░░░░   37.76 %
 C#                 2 hrs 45 min     ██░░░░░░░░░░░░░░░░░░░   08.40 %
 Unity              1 hr 30 min      █▒░░░░░░░░░░░░░░░░░░░   04.58 %
 Markdown           28 min           ▒░░░░░░░░░░░░░░░░░░░░   01.41 %
-Copy</p>
-
-<!-- Option 2: GitHub Stats (no WakaTime needed) -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+```
+      </pre>
+    </div>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </p>
   </details>
+  
   <details>
     <summary><h3>🎯 Recent Activity</h3></summary>
-textCopy⬆️ Pushed 3 commits to WasifSohail5/Virtual_Mouse
+    <div>
+      <pre>
+⬆️ Pushed 3 commits to WasifSohail5/Virtual_Mouse
 🎉 Merged PR #7 in WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem
 ❗️ Opened issue #12 in WasifSohail5/FitFusion
 ⭐ Starred tensorflow/tensorflow
 🍴 Forked pytorch/pytorch to WasifSohail5/pytorch
+      </pre>
+    </div>
   </details>
 </div>
 
-
+<!-- Quote Section -->
 <h2 align="center">💭 Inspirational Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
+<!-- Support Section -->
 <div align="center">
   <h2>🤝 Support Me</h2>
   <p>If you like my work, consider sponsoring me!</p>
-  <a href="https://www.buymeacoffee.com/wasifsohail" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a>
+  <a href="https://www.buymeacoffee.com/wasifsohail" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  </a>
 </div>
 
+<!-- Footer Section -->
 <div align="center">
   <h2>📫 Let's connect and create something amazing together!</h2>
   <img src="https://profile-counter.glitch.me/WasifSohail5/count.svg" alt="Visitor Count" />
