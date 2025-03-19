@@ -1,6 +1,6 @@
-<h1 align="center">
+# <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&duration=2500&pause=500&color=FF5E87&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+I'm+Wasif+Sohail;AI+%26+Machine+Learning+Developer;Game+Development+Enthusiast;Computer+Vision+Specialist" alt="Typing SVG" />
-</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/WasifSohail5">
@@ -127,21 +127,28 @@
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
+    <!-- Fixed GitHub Streak Stats URL -->
+    <img src="https://streak-stats.demolab.com/?user=WasifSohail5&theme=radical&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak" />
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
     <img src="https://api.githubtrends.io/user/svg/WasifSohail5/langs?time_range=one_year&theme=synthwaves" width="49%" alt="Language Trends" />
   </p>
   
-  <div style="display: flex; width: 80%; margin: 20px auto;">
-    <div style="background-color: #FF6B35; width: 63.86%; height: 20px; border-radius: 5px 0 0 5px;"></div>
-    <div style="background-color: #34AAE5; width: 34.94%; height: 20px;"></div>
-    <div style="background-color: #61C265; width: 1.2%; height: 20px; border-radius: 0 5px 5px 0;"></div>
-  </div>
-  <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
-    <span>🟠 Jupyter Notebook 63.86%</span>
-    <span>🔵 Python 34.94%</span>
-    <span>🟢 C# 1.20%</span>
+  <!-- Most Used Languages (Manual) -->
+  <div align="center" style="margin: 20px 0;">
+    <h3>Most Used Languages</h3>
+    <!-- Language Bar -->
+    <div style="display: flex; width: 80%; margin: 20px auto; border-radius: 5px; overflow: hidden;">
+      <div style="background-color: #FF6B35; width: 63.86%; height: 20px;"></div>
+      <div style="background-color: #34AAE5; width: 34.94%; height: 20px;"></div>
+      <div style="background-color: #61C265; width: 1.2%; height: 20px;"></div>
+    </div>
+    <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
+      <span>🟠 Jupyter Notebook 63.86%</span>
+      <span>🔵 Python 34.94%</span>
+      <span>🟢 C# 1.20%</span>
+    </div>
   </div>
 </div>
 
