@@ -132,7 +132,6 @@
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
-    <img src="https://api.githubtrends.io/user/svg/WasifSohail5/langs?time_range=one_year&theme=synthwaves" width="49%" alt="Language Trends" />
   </p>
   
   <!-- Most Used Languages (Manual) -->
