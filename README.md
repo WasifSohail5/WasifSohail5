@@ -139,7 +139,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
       <img src="https://api.githubtrends.io/user/svg/WasifSohail5/langs?time_range=one_year&theme=synthwaves" width="49%" alt="Language Trends" />
     </p>
-    
     <h4>Visual Language Breakdown</h4>
     <div style="display: flex; width: 80%; margin: 0 auto;">
       <div style="background-color: #FF6B35; width: 63.86%; height: 20px; border-radius: 5px 0 0 5px;"></div>
@@ -151,13 +150,6 @@
       <span>🔵 Python 34.94%</span>
       <span>🟢 C# 1.20%</span>
     </div>
-  </details>
-
-  <details>
-    <summary><h3>🏆 GitHub Achievements</h3></summary>
-    <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=WasifSohail5&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-    </p>
   </details>
 </div>
 
