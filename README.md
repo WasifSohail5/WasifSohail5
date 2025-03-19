@@ -122,35 +122,28 @@
 <h2 align="center">📊 GitHub Statistics 📊</h2>
 
 <div align="center">
-  <details open>
-    <summary><h3>⭐ General Stats</h3></summary>
-    <p>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasifSohail5&theme=radical" alt="General Stats" />
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=WasifSohail5&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF00FA&ring=FF00FA&fire=FF00FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FA&background=0D1117&dates=FFFFFF" width="49%" alt="GitHub Streak" />
-    </p>
-  </details>
-
-  <details>
-    <summary><h3>🌟 Most Used Languages</h3></summary>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
-      <img src="https://api.githubtrends.io/user/svg/WasifSohail5/langs?time_range=one_year&theme=synthwaves" width="49%" alt="Language Trends" />
-    </p>
-    <h4>Visual Language Breakdown</h4>
-    <div style="display: flex; width: 80%; margin: 0 auto;">
-      <div style="background-color: #FF6B35; width: 63.86%; height: 20px; border-radius: 5px 0 0 5px;"></div>
-      <div style="background-color: #34AAE5; width: 34.94%; height: 20px;"></div>
-      <div style="background-color: #61C265; width: 1.2%; height: 20px; border-radius: 0 5px 5px 0;"></div>
-    </div>
-    <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
-      <span>🟠 Jupyter Notebook 63.86%</span>
-      <span>🔵 Python 34.94%</span>
-      <span>🟢 C# 1.20%</span>
-    </div>
-  </details>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasifSohail5&theme=radical" alt="General Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WasifSohail5&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF00FA&ring=FF00FA&fire=FF00FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FA&background=0D1117&dates=FFFFFF" width="49%" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
+    <img src="https://api.githubtrends.io/user/svg/WasifSohail5/langs?time_range=one_year&theme=synthwaves" width="49%" alt="Language Trends" />
+  </p>
+  
+  <div style="display: flex; width: 80%; margin: 20px auto;">
+    <div style="background-color: #FF6B35; width: 63.86%; height: 20px; border-radius: 5px 0 0 5px;"></div>
+    <div style="background-color: #34AAE5; width: 34.94%; height: 20px;"></div>
+    <div style="background-color: #61C265; width: 1.2%; height: 20px; border-radius: 0 5px 5px 0;"></div>
+  </div>
+  <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
+    <span>🟠 Jupyter Notebook 63.86%</span>
+    <span>🔵 Python 34.94%</span>
+    <span>🟢 C# 1.20%</span>
+  </div>
 </div>
 
 <!-- Featured Projects with Improved Layout -->
@@ -179,40 +172,17 @@
   </div>
 </div>
 
-<!-- Weekly Activity Section with Fixed Formatting -->
-<h2 align="center">⏱️ Coding Activity</h2>
+<!-- Recent Activity Section -->
+<h2 align="center">🎯 Recent Activity</h2>
 
 <div align="center">
-  <details open>
-    <summary><h3>💻 Weekly Development Breakdown</h3></summary>
-    <div>
-      <pre>
-```text
-Jupyter Notebook   15 hrs 42 min    ███████████▓░░░░░░░░░   47.85 %
-Python             12 hrs 24 min    █████████▒░░░░░░░░░░░   37.76 %
-C#                 2 hrs 45 min     ██░░░░░░░░░░░░░░░░░░░   08.40 %
-Unity              1 hr 30 min      █▒░░░░░░░░░░░░░░░░░░░   04.58 %
-Markdown           28 min           ▒░░░░░░░░░░░░░░░░░░░░   01.41 %
-```
-      </pre>
-    </div>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </p>
-  </details>
-  
-  <details>
-    <summary><h3>🎯 Recent Activity</h3></summary>
-    <div>
-      <pre>
+  <pre>
 ⬆️ Pushed 3 commits to WasifSohail5/Virtual_Mouse
 🎉 Merged PR #7 in WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem
 ❗️ Opened issue #12 in WasifSohail5/FitFusion
 ⭐ Starred tensorflow/tensorflow
 🍴 Forked pytorch/pytorch to WasifSohail5/pytorch
-      </pre>
-    </div>
-  </details>
+  </pre>
 </div>
 
 <!-- Quote Section -->
