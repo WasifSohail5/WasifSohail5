@@ -165,30 +165,52 @@
 
 <div align="center">
   <details open>
-    <summary><h3>💻 Weekly Development Breakdown</h3></summary>
+    <summary><h3>💻 Development Breakdown</h3></summary>
+    
+    <!-- GitHub contribution stats -->
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WasifSohail5&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" alt="GitHub Stats" />
     </p>
     
-```text
-Jupyter Notebook   15 hrs 42 min    ███████████▓░░░░░░░░░   47.85 %
-Python             12 hrs 24 min    █████████▒░░░░░░░░░░░   37.76 %
-C#                 2 hrs 45 min     ██░░░░░░░░░░░░░░░░░░░   08.40 %
-Unity              1 hr 30 min      █▒░░░░░░░░░░░░░░░░░░░   04.58 %
-Markdown           28 min           ▒░░░░░░░░░░░░░░░░░░░░   01.41 %
-```
-  </details>
-
-  <details>
-    <summary><h3>🎯 Recent Activity</h3></summary>
+    <!-- Language stats -->
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </p>
     
-```text
-⬆️ Pushed 3 commits to WasifSohail5/ai-vision-system
-🎉 Merged PR #7 in WasifSohail5/intelligent-npcs
-❗️ Opened issue #12 in WasifSohail5/data-visualization-dashboard
-⭐ Starred tensorflow/tensorflow
-🍴 Forked pytorch/pytorch to WasifSohail5/pytorch
-```
+    <!-- Manual breakdown -->
+    <h4>Weekly Coding Summary</h4>
+    <table>
+      <tr>
+        <th>Language/Tool</th>
+        <th>Hours</th>
+        <th>Percentage</th>
+      </tr>
+      <tr>
+        <td>Jupyter Notebook</td>
+        <td>15 hrs 42 min</td>
+        <td>47.85%</td>
+      </tr>
+      <tr>
+        <td>Python</td>
+        <td>12 hrs 24 min</td>
+        <td>37.76%</td>
+      </tr>
+      <tr>
+        <td>C#</td>
+        <td>2 hrs 45 min</td>
+        <td>8.40%</td>
+      </tr>
+      <tr>
+        <td>Unity</td>
+        <td>1 hr 30 min</td>
+        <td>4.58%</td>
+      </tr>
+      <tr>
+        <td>Markdown</td>
+        <td>28 min</td>
+        <td>1.41%</td>
+      </tr>
+    </table>
   </details>
 </div>
 
