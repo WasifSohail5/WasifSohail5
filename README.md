@@ -153,6 +153,7 @@
 </div>
 
 
+
 <!-- Featured Projects with Improved Layout -->
 <h2 align="center">🚀 Featured Projects</h2>
 
