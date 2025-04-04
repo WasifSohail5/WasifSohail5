@@ -134,35 +134,23 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
   </p>
   
-<!-- Include Chart.js -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<!-- Most Used Languages Pie Chart -->
-<div align="center">
-    <h3>Most Used Languages</h3>
-    <canvas id="languageChart" width="300" height="300"></canvas>
+<!-- Most Used Languages (Manual) -->
+<div align="center" style="margin: 20px 0;">
+  <h3>Most Used Languages</h3>
+  <!-- Language Bar -->
+  <div style="display: flex; width: 80%; margin: 20px auto; border-radius: 5px; overflow: hidden;">
+    <div style="background-color: #FF6B35; width: 53.86%; height: 20px;"></div>
+    <div style="background-color: #34AAE5; width: 29.94%; height: 20px;"></div>
+    <div style="background-color: #F7D154; width: 14.98%; height: 20px;"></div> <!-- Fixed Java -->
+    <div style="background-color: #61C265; width: 1.2%; height: 20px;"></div>
+  </div>
+  <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
+    <span>🟠 Jupyter Notebook 53.86%</span>
+    <span>🔵 Python 29.94%</span>
+    <span>🟡 Java 15.0%</span>
+    <span>🟢 C# 1.20%</span>
+  </div>
 </div>
-
-<script>
-    var ctx = document.getElementById("languageChart").getContext("2d");
-    var languageChart = new Chart(ctx, {
-        type: "doughnut",
-        data: {
-            labels: ["Jupyter Notebook", "Python", "Java", "C#"],
-            datasets: [{
-                data: [53.86, 29.94, 15.0, 1.2], // Percentage Values
-                backgroundColor: ["#FF6B35", "#34AAE5", "#F7D154", "#61C265"],
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { position: "bottom" }
-            }
-        }
-    });
-</script>
 
 <!-- Featured Projects with Improved Layout -->
 <h2 align="center">🚀 Featured Projects</h2>
