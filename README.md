@@ -1,7 +1,7 @@
 <!-- Enhanced GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&duration=2500&pause=500&color=FF5E87&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+I'm+Wasif+Sohail;AI+%26+Machine+Learning+Developer;Game+Development+Enthusiast;Computer+Vision;Natural+Language+Processing;Python+&+Java+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&duration=2500&pause=500&color=FF5E87&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+I'm+Wasif+Sohail;AI+%26+Machine+Learning+Developer;Game+Development+Enthusiast;Computer+Vision;Natural+Language+Processing;Python+%26+Java+Development" alt="Typing SVG" />
 </div>
 
 <div align="center">
