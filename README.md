@@ -141,16 +141,17 @@
   <div style="display: flex; width: 80%; margin: 20px auto; border-radius: 5px; overflow: hidden;">
     <div style="background-color: #FF6B35; width: 53.86%; height: 20px;"></div>
     <div style="background-color: #34AAE5; width: 29.94%; height: 20px;"></div>
-    <div style="background-color: #F7D154; width: 15.0%; height: 20px;"></div>
+    <div style="background-color: #F7D154; width: 14.98%; height: 20px;"></div> <!-- Fixed Java -->
     <div style="background-color: #61C265; width: 1.2%; height: 20px;"></div>
   </div>
   <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
     <span>🟠 Jupyter Notebook 53.86%</span>
     <span>🔵 Python 29.94%</span>
-    <span>🟡 Java 15.0%</span>
+    <span>🟡 Java 14.98%</span>
     <span>🟢 C# 1.20%</span>
   </div>
 </div>
+
 
 
 
