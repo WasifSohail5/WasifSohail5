@@ -163,16 +163,6 @@
         }
     });
 </script>
-  <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
-    <span>🟠 Jupyter Notebook 53.86%</span>
-    <span>🔵 Python 29.94%</span>
-    <span>🟡 Java 14.98%</span>
-    <span>🟢 C# 1.20%</span>
-  </div>
-</div>
-
-
-
 
 <!-- Featured Projects with Improved Layout -->
 <h2 align="center">🚀 Featured Projects</h2>
