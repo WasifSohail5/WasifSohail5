@@ -1,218 +1,197 @@
-<!-- Enhanced GitHub Profile README -->
+<!-- Professional GitHub Profile with Interactive Elements -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=32&duration=2500&pause=500&color=FF5E87&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+I'm+Wasif+Sohail;AI+%26+Machine+Learning+Developer;Game+Development+Enthusiast;Computer+Vision;Natural+Language+Processing;Python+%26+Java+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Wasif+Sohail;AI+%26+ML+Developer;Head+of+AI+Department;Deep+Learning+Specialist;Computer+Vision+%26+NLP+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/WasifSohail5">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=D70EF3&labelColor=302D41&label=Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/WasifSohail5" alt="total stars" />
-  </a>
   <a href="https://github.com/WasifSohail5?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/WasifSohail5?color=23960c&labelColor=1e7e08&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/WasifSohail5?style=for-the-badge&logo=github&labelColor=0D1117&color=3584E4" alt="followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=WasifSohail5&style=for-the-badge&color=673AB7&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=WasifSohail5&style=for-the-badge&color=3584E4&label=PROFILE+VIEWS" alt="views" />
+  <a href="https://github.com/WasifSohail5">
+    <img src="https://img.shields.io/github/stars/WasifSohail5?style=for-the-badge&logo=star&labelColor=0D1117&color=3584E4" alt="stars" />
+  </a>
 </div>
 
-<!-- About Me Section with Modern Design -->
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-    <span style="font-size:28px; font-weight:bold;">About Me</span>
-  </h2>
-</div>
+<br>
 
-<table align="center">
+## 🧠 About Me
+
+<table>
   <tr>
-    <td width="50%">
-      <p align="center">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-      </p>
+    <td width="55%">
       <ul>
-        <li>🧠 I'm currently working on AI-powered game development systems</li>
-        <li>🌱 I'm passionate about machine learning & computer vision</li>
-        <li>👯 I'm looking to collaborate on innovative AI projects</li>
-        <li>💬 Ask me about Python, AI algorithms, and game dev</li>
-        <li>⚡ Fun fact: I love combining AI with creative applications!</li>
+        <li>👨‍💻 Head of AI Department at Soplex Technologies</li>
+        <li>🔭 Working on AI-driven innovations in NLP, Computer Vision, and LLMs</li>
+        <li>🌱 Developing RAG-based systems and healthcare analytics solutions</li>
+        <li>🚀 Leading teams to implement cutting-edge AI solutions</li>
+        <li>📚 Pursuing BS in Artificial Intelligence (CGPA: 3.95)</li>
+        <li>💬 Ask me about Machine Learning, Deep Learning, Python, or AI implementation</li>
+        <li>⚡ I enjoy applying AI to solve real-world problems</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">Connect with me</h3>
+    <td width="45%">
       <p align="center">
-        <a href="mailto:wasifsohail66@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-        <a href="https://linkedin.com/in/wasifsohail">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://twitter.com/wasifsohail">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://dev.to/wasifsohail">
-          <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
-        </a>
-        <a href="https://kaggle.com/wasifsohail">
-          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
-        </a>
-        <a href="https://medium.com/@wasifsohail">
-          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-        </a>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=WasifSohail5&theme=transparent&hide_border=true&dates=3584E4&stroke=3584E4&currStreakNum=3584E4&ring=3584E4&fire=ED760E&sideNums=3584E4&currStreakLabel=ED760E&sideLabels=ED760E" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
 </table>
 
-<!-- GitHub Contribution Snake Animation -->
+<!-- Connect Section with Professional Links -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Skills Section with Improved Organization -->
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
-
-<div align="center">
-  <h3>👨‍💻 Programming & Markup Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  </p>
-  
-  <h3>🧠 AI & ML</h3>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-  </p>
-  
-  <h3>🔧 Data Science & Analysis</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Scipy-654FF0?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy" />
-  </p>
-  
-  <h3>🎮 Game Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  </p>
-  
-  <h3>🛠️ Software & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  </p>
-</div>
-
-<!-- GitHub Stats Section with Improved Layout -->
-<h2 align="center">📊 GitHub Statistics 📊</h2>
-
-<div align="center">
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasifSohail5&theme=radical" alt="General Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=ff00fa&title_color=f75eee&icon_color=ff00fa&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
-  </p>
-  
-<!-- Most Used Languages (Manual) -->
-<div align="center" style="margin: 20px 0;">
-  <h3>Most Used Languages</h3>
-  <!-- Language Bar -->
-  <div style="display: flex; width: 80%; margin: 20px auto; border-radius: 5px; overflow: hidden;">
-    <div style="background-color: #FF6B35; width: 53.86%; height: 20px;"></div>
-    <div style="background-color: #34AAE5; width: 29.94%; height: 20px;"></div>
-    <div style="background-color: #F7D154; width: 14.98%; height: 20px;"></div> <!-- Fixed Java -->
-    <div style="background-color: #61C265; width: 1.2%; height: 20px;"></div>
-  </div>
-  <div style="display: flex; justify-content: space-around; width: 80%; margin: 10px auto;">
-    <span>🟠 Jupyter Notebook 53.86%</span>
-    <span>🔵 Python 29.94%</span>
-    <span>🟡 Java 15.0%</span>
-    <span>🟢 C# 1.20%</span>
-  </div>
-</div>
-
-<!-- Featured Projects with Improved Layout -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; max-width: 900px; margin: 0 auto;">
-    <a href="https://github.com/WasifSohail5/Virtual_Mouse">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Virtual_Mouse&theme=radical&hide_border=true&bg_color=0D1117" alt="Virtual_Mouse" />
-    </a>
-    <a href="https://github.com/WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=AMUSIC-AI_Powered_MusicRecommendationSystem&theme=radical&hide_border=true&bg_color=0D1117" alt="AMUSIC-AI" />
-    </a>
-    <a href="https://github.com/WasifSohail5/FitFusion">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FitFusion&theme=radical&hide_border=true&bg_color=0D1117" alt="FitFusion" />
-    </a>
-    <a href="https://github.com/WasifSohail5/Jarvis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Jarvis&theme=radical&hide_border=true&bg_color=0D1117" alt="Jarvis" />
-    </a>
-    <a href="https://github.com/WasifSohail5/FlappyBird">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FlappyBird&theme=radical&hide_border=true&bg_color=0D1117" alt="FlappyBird" />
-    </a>
-    <a href="https://github.com/WasifSohail5/SpamShield">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=SpamShield&theme=radical&hide_border=true&bg_color=0D1117" alt="SpamShield" />
-    </a>
-  </div>
-</div>
-
-<!-- Recent Activity Section -->
-<h2 align="center">🎯 Recent Activity</h2>
-
-<div align="center">
-  <pre>
-⬆️ Pushed 3 commits to WasifSohail5/Virtual_Mouse
-🎉 Merged PR #7 in WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem
-❗️ Opened issue #12 in WasifSohail5/FitFusion
-⭐ Starred tensorflow/tensorflow
-🍴 Forked pytorch/pytorch to WasifSohail5/pytorch
-  </pre>
-</div>
-
-<!-- Quote Section -->
-<h2 align="center">💭 Inspirational Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<!-- Support Section -->
-<div align="center">
-  <h2>🤝 Support Me</h2>
-  <p>If you like my work, consider sponsoring me!</p>
-  <a href="https://www.buymeacoffee.com/wasifsohail" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  <h2>📫 Connect with me</h2>
+  <a href="mailto:wasifsohail66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wasifsohail66%40gmail.com-3584E4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/wasif-sohail-4381602b4">
+    <img src="https://img.shields.io/badge/LinkedIn-wasif--sohail-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/WasifSohail5">
+    <img src="https://img.shields.io/badge/GitHub-WasifSohail5-3584E4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
   </a>
 </div>
 
-<!-- Footer Section -->
+<br>
+
 <div align="center">
-  <h2>📫 Let's connect and create something amazing together!</h2>
-  <img src="https://profile-counter.glitch.me/WasifSohail5/count.svg" alt="Visitor Count" />
+  <img src="https://github.com/WasifSohail5/WasifSohail5/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%"/>
+</div>
+
+<br>
+
+## 💻 Technical Skills
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,sql&perline=3" alt="Languages" />
+    </td>
+    <td width="40%" align="center">
+      <h3>AI & Machine Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer%20Vision-3584E4?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/NLP-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LLMs-FF9E0F?style=for-the-badge" alt="LLMs" />
+        <img src="https://img.shields.io/badge/RAG-FF4F8B?style=for-the-badge" alt="RAG" />
+        <img src="https://img.shields.io/badge/Vector%20DB-00897B?style=for-the-badge" alt="Vector DB" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <h3>Data & Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Data Analysis" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">HidayahAI</h3>
+      <p align="center">
+        <a href="https://github.com/WasifSohail5/HidayahAI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=HidayahAI&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4" alt="HidayahAI" />
+        </a>
+      </p>
+      <p align="center">RAG-based Islamic Q&A system using Gemini 1.5 for evidence-based responses from authentic sources</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Heart Disease Risk Stratification</h3>
+      <p align="center">
+        <a href="https://github.com/WasifSohail5/Heart-Disease-Risk-Stratification-and-Patient-Clustering-Analysis" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Heart-Disease-Risk-Stratification-and-Patient-Clustering-Analysis&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4" alt="Heart Disease Risk" />
+        </a>
+      </p>
+      <p align="center">ML system for heart disease prediction using ensemble methods and patient clustering</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Weapon Detection System</h3>
+      <p align="center">
+        <a href="https://github.com/WasifSohail5/Weapon-Detection-System" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Weapon-Detection-System&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4" alt="Weapon Detection" />
+        </a>
+      </p>
+      <p align="center">Real-time weapon detection using YOLOv8 for enhanced security monitoring</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">AMUSIC - AI Music Recommendation</h3>
+      <p align="center">
+        <a href="https://github.com/WasifSohail5/AMUSIC-AI_Powered_MusicRecommendationSystem" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=AMUSIC-AI_Powered_MusicRecommendationSystem&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4" alt="AMUSIC" />
+        </a>
+      </p>
+      <p align="center">Personalized music recommendation using collaborative filtering and ML</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/WasifSohail5?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-3584E4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="All Repositories" />
+  </a>
+</div>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WasifSohail5&show_icons=true&theme=transparent&hide_border=true&title_color=3584E4&text_color=ffffff&icon_color=3584E4&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifSohail5&layout=compact&theme=transparent&hide_border=true&title_color=3584E4&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,28&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WasifSohail5&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+## 🔍 What I'm Currently Working On
+
+- 🤖 Advanced RAG systems with improved context understanding
+- 🏥 Healthcare AI applications for early disease detection
+- 🖼️ Computer vision projects for security applications
+- 🧠 Enhancing AI capabilities in natural language understanding
+
+<br>
+
+<div align="center">
+  <h2>💭 "Artificial intelligence is the new electricity."</h2>
+  <p>- Andrew Ng</p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/WasifSohail5">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=120&section=footer" width="100%" alt="Footer" />
+  </a>
 </div>
