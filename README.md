@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile with Interactive Elements -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Wasif+Sohail;AI+%26+ML+Developer;Deep+Learning+Specialist;Computer+Vision+%26+NLP+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Wasif+Sohail;AI+%26+ML+Developer;Chatbot+Developer;AgenticAI+Specialist;Deep+Learning+Specialist;Computer+Vision+%26+NLP+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
