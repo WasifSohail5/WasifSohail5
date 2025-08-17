@@ -52,14 +52,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/WasifSohail5/WasifSohail5/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%"/>
-</div>
-
-<br>
-
 ## 💻 Technical Skills
 
 <table>
