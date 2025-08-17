@@ -94,6 +94,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/n8n-FF5833?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
       </p>
     </td>
   </tr>
