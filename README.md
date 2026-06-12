@@ -2,14 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1117,80:0f1923,100:3584E4&height=220&section=header&text=Wasif%20Sohail&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20DevOps%20Architect%20%7C%20Agentic%20AI%20Pioneer&descAlignY=62&descSize=17&animation=fadeIn" alt="Wasif Sohail"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=900&color=3584E4&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+Agentic+AI+%26+Multi-Agent+Systems;🧠+RAG+%7C+LLMs+%7C+Computer+Vision+%7C+NLP;⚙️+DevOps+%7C+AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD;🚀+Co-Founder+%40+ZEERO+AI+%7C+Engineer+%40+Devrolin;🎯+Building+AI+that+works+in+Production" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=900&color=3584E4&center=true&vCenter=true&random=false&width=780&height=55&lines=🤖+Agentic+AI+%26+Voice+Agent+Systems;🧠+RAG+%7C+LLMs+%7C+Computer+Vision+%7C+NLP;⚙️+DevOps+%7C+AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD;🗣️+Urdu+TTS+from+Scratch+%7C+Speech+AI;🚀+Co-Founder+%40+ZEERO+AI+%7C+Engineer+%40+Devrolin" alt="Typing SVG"/>
 
 <p>
   <a href="https://github.com/WasifSohail5?tab=followers"><img src="https://img.shields.io/github/followers/WasifSohail5?style=for-the-badge&logo=github&labelColor=0D1117&color=3584E4&label=FOLLOWERS"/></a>
   <img src="https://komarev.com/ghpvc/?username=WasifSohail5&style=for-the-badge&color=3584E4&label=PROFILE+VIEWS"/>
   <a href="https://linkedin.com/in/wasifsohail"><img src="https://img.shields.io/badge/LinkedIn-Connect-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
   <a href="https://wasifsohail.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
-  <img src="https://img.shields.io/badge/CGPA-3.95%2F4.0-FF6B35?style=for-the-badge&labelColor=0D1117"/>
+  <a href="https://zeeroai.tech"><img src="https://img.shields.io/badge/ZEERO_AI-zeeroai.tech-FF6B35?style=for-the-badge&labelColor=0D1117"/></a>
+  <img src="https://img.shields.io/badge/CGPA-3.95%2F4.0-FFD700?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 </div>
@@ -27,20 +28,22 @@ class WasifSohail:
     education    = "BS Artificial Intelligence | CGPA: 3.95/4.0"
 
     expertise = {
-        "agentic_ai"  : ["Multi-Agent Systems", "LangChain", "CrewAI", "LangGraph", "AutoGen"],
-        "llm_rag"     : ["GPT-4o", "Gemini 1.5", "LLaMA", "RAG Pipelines", "Vector DBs"],
-        "cv_nlp"      : ["YOLOv8", "MediaPipe", "OpenCV", "Transformers", "BERT", "NER"],
-        "healthcare"  : ["Disease Prediction", "Patient Clustering", "Medical Imaging"],
-        "devops"      : ["AWS", "GCP", "Docker", "Kubernetes", "GitHub Actions", "CI/CD"],
-        "automation"  : ["n8n Workflows", "AI Agents", "ATS Systems", "Voice Assistants"],
+        "agentic_ai"    : ["Multi-Agent Systems", "LangChain", "CrewAI", "LangGraph", "AutoGen"],
+        "llm_rag"       : ["GPT-4o", "Gemini 1.5", "LLaMA", "RAG Pipelines", "Vector DBs"],
+        "voice_ai"      : ["Voice Agents @ Devrolin", "Urdu TTS from Scratch", "Speech Recognition"],
+        "cv_nlp"        : ["YOLOv8", "MediaPipe", "OpenCV", "Transformers", "BERT"],
+        "fullstack_ai"  : ["Next.js", "FastAPI", "Django", "TypeScript", "Python"],
+        "devops"        : ["AWS", "GCP", "Docker", "Kubernetes", "GitHub Actions", "CI/CD"],
+        "data_ai"       : ["DataFlow AI Platform", "Pandas", "Visualization", "NL-to-SQL"],
     }
 
     currently_building = [
-        "🔗 Agentic AI workflows with LangGraph + CrewAI for enterprise automation",
-        "🏥 Healthcare AI — multimodal models for early disease detection",
-        "🔐 Real-time threat detection pipelines for security systems",
-        "☁️ MLOps on AWS & GCP — end-to-end model deployment with CI/CD",
-        "🧠 Advanced RAG with hybrid search, re-ranking & context compression",
+        "🗣️  Voice Agent System @ Devrolin — production-grade AI calling",
+        "🌐  Urdu TTS model trained from scratch — low-resource speech AI",
+        "☁️  PrismX Extension Host — AWS-deployed DevOps infrastructure",
+        "🤖  MarketAI — LLM-powered marketing automation platform",
+        "🏥  Healthcare AI — multimodal early disease detection models",
+        "🧠  Advanced RAG with hybrid search & context compression",
     ]
 
     contact = {
@@ -48,6 +51,7 @@ class WasifSohail:
         "linkedin"  : "linkedin.com/in/wasifsohail",
         "portfolio" : "wasifsohail.vercel.app",
         "company"   : "zeeroai.tech",
+        "instagram" : "instagram.com/wasif.chaudary",
     }
 
     fun_fact = "I automate things so I can focus on harder problems 🤖"
@@ -63,10 +67,11 @@ class WasifSohail:
 |--------|-------|
 | **🤖 Agentic AI** | LangChain · LangGraph · CrewAI · AutoGen · n8n |
 | **📚 LLMs & RAG** | GPT-4o · Gemini 1.5 · LLaMA · Pinecone · ChromaDB |
+| **🗣️ Voice & Speech AI** | Voice Agents · Urdu TTS (from scratch) · Speech Recognition · Azure OpenAI |
 | **👁️ Computer Vision** | YOLOv8 · OpenCV · MediaPipe · CNNs · ONNX |
 | **🗣️ NLP** | Transformers · BERT · HuggingFace · NER · Classification |
 | **🏥 Healthcare AI** | Disease Prediction · Patient Clustering · Medical Imaging |
-| **🔬 Deep Learning** | PyTorch · TensorFlow · Custom Architectures · Transfer Learning |
+| **📊 Data AI** | NL-to-insight platforms · Auto-visualization · Predictive Analytics |
 
 </div>
 
@@ -83,7 +88,7 @@ class WasifSohail:
 ║  ☁️  CLOUD   ║  📦 CONTAINERS║  🔄 CI / CD    ║  📊 OBSERVABILITY  ║
 ║  AWS · GCP   ║  Docker       ║  GitHub Actions║  Logging · Metrics ║
 ║  EC2 · S3    ║  Kubernetes   ║  Jenkins       ║  Alerting · Tracing║
-║  Lambda      ║  Compose      ║  ArgoCD        ║  Performance Monit.║
+║  Lambda · EKS║  Compose      ║  ArgoCD        ║  Performance Monit.║
 ╚══════════════╩═══════════════╩════════════════╩════════════════════  ╝
 ```
 
@@ -125,9 +130,9 @@ class WasifSohail:
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
 <img src="https://img.shields.io/badge/n8n-FF5833?style=flat-square&logo=n8n&logoColor=white"/>
 
-**Backend · APIs · Deployment**
+**Fullstack & Deployment**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,nodejs,flask,docker,kubernetes,nginx,git&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,django,nodejs,docker,kubernetes,nginx&perline=8"/>
 
 **Cloud & DevOps**
 
@@ -141,6 +146,7 @@ class WasifSohail:
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
 <img src="https://img.shields.io/badge/Weaviate-3D9FC1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 </div>
 
@@ -152,14 +158,88 @@ class WasifSohail:
 <tr>
 <td width="50%" valign="top">
 
-### 🕌 HidayahAI
+### 🗣️ Voice Agent — Devrolin *(In Production)*
+![WIP](https://img.shields.io/badge/Status-In_Production-00C853?style=flat-square) ![Private](https://img.shields.io/badge/Repo-Private-FF6B35?style=flat-square)
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-3584E4?style=flat-square) ![Voice](https://img.shields.io/badge/Voice_Agent-FF4F8B?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+
+Production-grade AI voice calling agent at Devrolin. Handles real-time conversations, intent detection, and agentic decision-making — deployed at scale for enterprise clients.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Urdu TTS — From Scratch *(Research)*
+![WIP](https://img.shields.io/badge/Status-Training-FFD700?style=flat-square) ![Research](https://img.shields.io/badge/Type-Research-8E75B2?style=flat-square)
+
+![Speech AI](https://img.shields.io/badge/Speech_AI-3584E4?style=flat-square) ![Low Resource](https://img.shields.io/badge/Low_Resource_NLP-FF4F8B?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+Training an Urdu Text-to-Speech model from scratch — custom dataset curation, acoustic model training, and vocoder implementation for low-resource Urdu language.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 MarketAI — AI Marketing Platform
+<a href="https://github.com/WasifSohail5/MarketAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=MarketAI&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
+</a>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+
+LLM-powered marketing automation — AI content generation (blogs, ads, emails), campaign management, audience segmentation, competitor analysis. Live on Vercel. Stack: Next.js + FastAPI + GPT-4 + RAG.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 DataFlow AI — Enterprise Analytics
+<a href="https://github.com/WasifSohail5/DataFlow-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=DataFlow-AI&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
+</a>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AI Chatbot](https://img.shields.io/badge/NL_Query-3584E4?style=flat-square)
+
+Enterprise data platform — upload any dataset, get AI-generated visualizations, ask questions in natural language, auto-correlation analysis, outlier detection. Stack: Next.js + FastAPI + Python.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ PrismX Extension Host — AWS DevOps
+<a href="https://github.com/WasifSohail5/prismx-extension-host">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=prismx-extension-host&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
+</a>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=flat-square) ![Extension Hosting](https://img.shields.io/badge/Extension_Host-3584E4?style=flat-square)
+
+AWS-deployed extension hosting infrastructure for PrismX — scalable DevOps setup with cloud deployment, infrastructure management, and production-grade hosting pipeline.
+
+</td>
+<td width="50%" valign="top">
+
+### 🕌 HidayahAI — Islamic RAG System
 <a href="https://github.com/WasifSohail5/HidayahAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=HidayahAI&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
 </a>
 
-![RAG](https://img.shields.io/badge/RAG-FF4F8B?style=flat-square) ![Gemini 1.5](https://img.shields.io/badge/Gemini_1.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![VectorDB](https://img.shields.io/badge/Vector_DB-00897B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF4F8B?style=flat-square) ![Gemini 1.5](https://img.shields.io/badge/Gemini_1.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Full-stack RAG web app providing evidence-based Islamic Q&A from authentic scholarly sources using Gemini 1.5 + semantic vector search. Built with TypeScript.
+Full-stack RAG web app — evidence-based Islamic Q&A from authentic scholarly sources via Gemini 1.5 + semantic vector search. Production-deployed TypeScript full-stack app.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔫 Weapon Detection — Research Paper
+<a href="https://github.com/WasifSohail5/Weapon-Detection-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Weapon-Detection-System&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
+</a>
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![Research Paper](https://img.shields.io/badge/Research_Paper-FF4F8B?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+Implementation of *"Comprehensive Study on Weapon Detection: Comparative Analysis using YOLOv8"* — extends the research with ONNX export for edge device deployment in smart surveillance.
 
 </td>
 <td width="50%" valign="top">
@@ -169,9 +249,9 @@ Full-stack RAG web app providing evidence-based Islamic Q&A from authentic schol
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=FitFusion&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
 </a>
 
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Real-time posture correction for 9 exercises, voice-controlled workouts, AI meal planning via Spoonacular + Gemini, BMI tracker, streak system. Future: VR integration.
+Real-time posture correction for 9 exercises, voice-controlled workouts, Gemini AI meal planning, BMI tracker, streak system. Future: VR integration.
 
 </td>
 </tr>
@@ -183,9 +263,9 @@ Real-time posture correction for 9 exercises, voice-controlled workouts, AI meal
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Jarvis&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
 </a>
 
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3-FF6B35?style=flat-square) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Speech](https://img.shields.io/badge/Speech_Recognition-3584E4?style=flat-square)
+![LLaMA 3.3](https://img.shields.io/badge/LLaMA_3.3-FF6B35?style=flat-square) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Most Starred](https://img.shields.io/badge/⭐_Most_Starred-FFD700?style=flat-square)
 
-Python voice assistant powered by LLaMA-3.3 + Azure OpenAI. Manages files, controls system, browses web, sends emails, fetches live news — fully hands-free via modular architecture.
+Modular Python voice assistant powered by LLaMA-3.3 + Azure OpenAI. File management, system control, email, live news — 100% hands-free. Most starred repo (3⭐).
 
 </td>
 <td width="50%" valign="top">
@@ -197,33 +277,7 @@ Python voice assistant powered by LLaMA-3.3 + Azure OpenAI. Manages files, contr
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF9E0F?style=flat-square)
 
-Touchless PC control using only a webcam. MediaPipe hand tracking maps gestures — pinch to click, double-pinch to double-click, scroll with finger alignment. No hardware needed.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔫 Weapon Detection System
-<a href="https://github.com/WasifSohail5/Weapon-Detection-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=Weapon-Detection-System&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
-</a>
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![Research](https://img.shields.io/badge/Research_Based-FF4F8B?style=flat-square)
-
-Real-time weapon detection based on published research. Extends YOLOv8 methodology with ONNX export for edge deployment — suitable for smart surveillance and public safety.
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 CV ATS Score Agent
-<a href="https://github.com/WasifSohail5/CV-s-ATS-Score-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WasifSohail5&repo=CV-s-ATS-Score-Agent&theme=react&hide_border=true&bg_color=0D1117&border_color=3584E4&icon_color=3584E4&title_color=3584E4"/>
-</a>
-
-![n8n](https://img.shields.io/badge/n8n-FF5833?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-
-Agentic n8n workflow that auto-analyzes CVs vs job descriptions using OpenAI — returns match score, strengths & weaknesses per candidate. Built for HR automation at scale.
+Touchless PC control via webcam. MediaPipe hand tracking maps pinch gestures to clicks, scroll, navigation — no hardware needed. Adaptive smoothing for natural feel.
 
 </td>
 </tr>
@@ -231,7 +285,7 @@ Agentic n8n workflow that auto-analyzes CVs vs job descriptions using OpenAI —
 
 <div align="center">
   <a href="https://github.com/WasifSohail5?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍_View_All_39_Projects-3584E4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/🔍_View_All_39+_Projects-3584E4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
   </a>
 </div>
 
@@ -258,7 +312,7 @@ Agentic n8n workflow that auto-analyzes CVs vs job descriptions using OpenAI —
 
 <div align="center">
 
-**Open to:** Freelance AI Projects · Research Collaborations · Open Source · Consulting
+**Open to:** Freelance AI Projects · Voice AI · Research Collaborations · DevOps Consulting · Open Source
 
 <p>
 <a href="mailto:wasifsohail66@gmail.com"><img src="https://img.shields.io/badge/Email-wasifsohail66%40gmail.com-3584E4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
@@ -278,7 +332,7 @@ Agentic n8n workflow that auto-analyzes CVs vs job descriptions using OpenAI —
 
 **Wasif Sohail** · AI/ML Engineer · DevOps Architect · Agentic AI Pioneer · Rawalpindi, Pakistan
 
-<!-- Wasif Sohail AI Engineer Pakistan | Wasif Sohail DevOps | Wasif Sohail ZEERO AI | Agentic AI Rawalpindi | AI ML Engineer Pakistan -->
+<!-- Wasif Sohail AI Engineer Pakistan | Wasif Sohail DevOps | Wasif Sohail ZEERO AI | Urdu TTS | Voice Agent AI | Agentic AI Rawalpindi -->
 
 </div>
 
