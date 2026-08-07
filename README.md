@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1117,80:0f1923,100:3584E4&height=220&section=header&text=Wasif%20Sohail&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20DevOps%20Architect%20%7C%20Agentic%20AI%20Pioneer&descAlignY=62&descSize=17&animation=fadeIn" alt="Wasif Sohail"/>
 
 <a href="https://github.com/WasifSohail5">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=900&color=3584E4&center=true&vCenter=true&random=false&width=780&height=55&lines=Agentic+AI+%26+Voice+Agent+Systems;RAG+%7C+LLMs+%7C+Computer+Vision+%7C+NLP;DevOps+%7C+AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD;Urdu+TTS+from+Scratch+%7C+Speech+AI;Co-Founder+%40+ZEERO+AI+%7C+Engineer+%40+Devrolin" alt="Wasif Sohail - AI Engineer DevOps Architect Agentic AI"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=900&color=3584E4&center=true&vCenter=true&random=false&width=780&height=55&lines=Agentic+AI+%26+Voice+Agent+Systems;RAG+%7C+LLMs+%7C+Computer+Vision+%7C+NLP;DevOps+%7C+AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD;Urdu+TTS+from+Scratch+%7C+Speech+AI;Co-Founder+%40+ZEERO+AI+%7C+Engineer+%40+Devrolin" alt="Wasif Sohail - AI Engineer Data Scientist DevOps Architect Agentic AI"/>
 </a>
 
 <p>
